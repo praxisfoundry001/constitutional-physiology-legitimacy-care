@@ -22,6 +22,6 @@ Read it as an origin-layer white paper preserved largely in its earlier form. A 
 Read the full artifact via the DOI link below.
 
 ## Citation
-DOI: (add after Zenodo upload)
+DOI: https://doi.org/10.5281/zenodo.19393267
 
 PDF available via DOI link.
